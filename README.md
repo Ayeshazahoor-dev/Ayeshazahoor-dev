@@ -14,13 +14,17 @@ I'm interested in web development and software engineering. Currently, I'm learn
 - CSS
 - GitHub
 - VS Code
+- C++
+- JavaScript
+- python 
 
 ## My Projects
 - My First Website
-- Student Management System (In Progress)
+- Student Management System 
 
 ## Currently Learning
 - JavaScript
+- python
 - Frontend Web Development
 
 ## Career Interests
