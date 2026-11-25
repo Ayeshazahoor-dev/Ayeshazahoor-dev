@@ -1,60 +1,34 @@
-Hi, I'm Ayesha Zahoor 👋
+# Hi, I'm Ayesha Zahoor!
 
-Software Engineering Student | Aspiring Software Developer
+### BS Software Engineering Student | Semester 6
 
 Welcome to my GitHub profile!
 
-I'm a Software Engineering student with an interest in programming, software development, and web technologies. I'm building my technical skills through university coursework and practical projects.
+## About Me
+I'm a Software Engineering student at the University of Haripur, Pakistan.
 
-👩‍💻 About Me
+I'm interested in web development and software engineering. Currently, I'm learning HTML and CSS and improving my programming skills through practical projects.
 
-- 🎓 Studying Software Engineering
-- 💻 Knowledge of C++ and Object Oriented Programming (OOP)
-- 🌐 Basic knowledge of HTML and CSS
-- 📚 Continuously learning and improving my coding skills
-- 🎯 Interested in software development and web development
-- 🚀 Working towards becoming a professional software developer
-
-🛠️ Technical Skills
-
-Programming Languages
-
-- C++
-
-Core Concepts
-
-- Object Oriented Programming (OOP)
-- Programming Fundamentals
-
-Web Technologies
-
+## Technical Skills
 - HTML
 - CSS
-
-Tools
-
 - GitHub
-- Visual Studio Code
+- VS Code
 
-📖 Currently Learning
+## My Projects
+- My First Website
+- Student Management System (In Progress)
 
-- Improving C++ programming skills
-- Strengthening OOP concepts
+## Currently Learning
+- JavaScript
 - Frontend Web Development
-- Building practical coding projects
 
-🎯 My Goals
+## Career Interests
+- Software Engineering Internship
+- Junior Web Development
+- Frontend Development
 
-- Build real world projects.
-- Improve problem solving skills.
-- Contribute to open source projects.
-- Gain practical software development experience.
-- Become a skilled Software Engineer.
-
-🤝 Connect With Me
-
-- GitHub: "@Ayeshazahoor-dev" (https://github.com/Ayeshazahoor-dev)
-
----
-
-⭐ Thanks for visiting my profile! I'm always learning and growing as a developer.
+## Connect With Me
+- Location: Haripur, Pakistan
+- GitHub: https://github.com/ayesha-zahoor-dev
+-
